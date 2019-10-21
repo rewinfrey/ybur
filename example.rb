@@ -21,4 +21,5 @@ class Exaple
     set_name(name)
     do_thing
   end
+  
 end
