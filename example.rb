@@ -22,4 +22,5 @@ class Exaple
     do_thing
   end
   
+  
 end
